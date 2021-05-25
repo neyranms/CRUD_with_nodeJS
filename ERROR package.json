@@ -1,0 +1,21 @@
+{
+  "name": "nodegeek",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  ❌
+  //ERROR is here, the system goes into debug mode and does not allow to add the scripts
+  //"scripts": {
+  //"dev": "nodemon index.js"
+  //},
+  ❌
+  
+  
+  "dependencies": {
+  "express": "^4.17.1"
+  },
+  "devDependencies": {
+  "nodemon": "^2.0.1"
+  }
+  }
